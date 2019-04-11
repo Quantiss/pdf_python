@@ -1,4 +1,4 @@
 # pdf_python
 working with pdf documents in python.
 
-PLease feel free to edit and leaves comments for future updates!
+Please feel free to edit and leave comments for future updates!
